@@ -21,3 +21,5 @@ end
 
 def using_shift(array)
   first=array.shift
+  p first
+end
